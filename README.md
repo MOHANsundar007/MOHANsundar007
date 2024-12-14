@@ -22,7 +22,7 @@ I'm passionate about AI and Machine Learning 🤖 and always look for new ways t
 - **Machine Learning**: Knowledge of algorithms and models for data driven predictions and decisions.
 - **Deep Learning**: Proficient in CNN, RNN, LSTM, RCNN, Gan and other advanced neural network architectures.
 - **Natural Language Processing (NLP)**: Understanding of techniques for processing and analyzing text.
-- **Computer Vision (Intermediate)**: Strong knowledge of techniques that enable machines to interpret and understand visual data, including object detection, pose detection and image classification.
+- **Computer Vision (Intermediate)**: Strong knowledge of techniques including object detection, pose detection and image classification.
 - **Generative AI (Beginner)**: Basic understanding of AI models, including LLM based chatbots, for generating humanlike text and interactions along with prompt engineering techniques to optimize model responses.
 
 #### **Web Frameworks**
