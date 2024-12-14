@@ -1,9 +1,12 @@
+**Innovating the Future with AI**
 
 Hi, I am Mohanasundaram! 👋
-I'm passionate about AI and Machine Learning 🤖 and always look for new ways to solve real world problems 🌍. I enjoy connecting with tech enthusiasts 💻 and professionals worldwide 🌐, learning from **professors 🎓 and global experts** 🌟 and exploring technologies across countries to keep improving my skills. I believe working together 🤝 and sharing knowledge 📚 can help us create a better and smarter future 🚀.
+I'm passionate about AI and Machine Learning 🤖 and always look for new ways to solve real world problems 🌍. I enjoy connecting with **tech enthusiasts** 💻 and **professionals worldwide** 🌐, learning from **professors 🎓 and global experts** 🌟 and exploring technologies across countries to keep improving my skills. I believe working together 🤝 and sharing knowledge 📚 can help us create a better and smarter future 🚀.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHANsundar007&show_icons=true&count_private=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANsundar007&layout=compact)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHANsundar007&show_icons=true&count_private=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHANsundar007&layout=compact&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_radius=10)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 **Tech Stack**
 
@@ -16,24 +19,22 @@ I'm passionate about AI and Machine Learning 🤖 and always look for new ways t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-
-### **Core Skills**
 ### **Deep Learning Frameworks**:
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### **Natural Language Processing (NLP) **:
-- ![Hugging Face](https://img.shields.io/badge/Hugging_Face-00B8D9?style=flat&logo=huggingface&logoColor=white)
-- ![spaCy](https://img.shields.io/badge/spaCy-2A6C64?style=flat&logo=spacy&logoColor=white)
-- ![NLTK](https://img.shields.io/badge/NLTK-2A8D2F?style=flat&logo=nltk&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-00B8D9?style=flat&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-2A6C64?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-2A8D2F?style=flat&logo=nltk&logoColor=white)
 
 ### **Computer Vision**:
-- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-- ![MediaPipe](https://img.shields.io/badge/MediaPipe-00BFAE?style=flat&logo=mediapipe&logoColor=white)
-
-
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00BFAE?style=flat&logo=mediapipe&logoColor=white)
 
 #### **Web Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
