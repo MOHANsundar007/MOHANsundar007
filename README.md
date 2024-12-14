@@ -27,7 +27,7 @@ I'm passionate about AI and Machine Learning 🤖 and always look for new ways t
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### **Natural Language Processing (NLP) **:
+### **Natural Language Processing (NLP)**:
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-00B8D9?style=flat&logo=huggingface&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-2A6C64?style=flat&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-2A8D2F?style=flat&logo=nltk&logoColor=white)
@@ -35,6 +35,10 @@ I'm passionate about AI and Machine Learning 🤖 and always look for new ways t
 ### **Computer Vision**:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00BFAE?style=flat&logo=mediapipe&logoColor=white)
+
+### **Generative AI & Prompt Engineering**:
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=flat&logo=openai&logoColor=white)
 
 #### **Web Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
