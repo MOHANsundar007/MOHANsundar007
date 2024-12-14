@@ -8,22 +8,22 @@ I'm passionate about AI and Machine Learning 🤖 and always look for new ways t
 ### 🚀 **Tech Stack**
 
 #### **Frontend**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### **Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🛠️ **Core Skills**
 - **Machine Learning**: Knowledge of algorithms and models for data driven predictions and decisions.
 - **Deep Learning**: Proficient in CNN, RNN, LSTM, RCNN, Gan and other advanced neural network architectures.
 - **Natural Language Processing (NLP)**: Understanding of techniques for processing and analyzing text.
 - **Computer Vision (Intermediate)**: Strong knowledge of techniques including object detection, pose detection and image classification.
-- **Generative AI (Beginner)**: Basic understanding of AI models, including LLM based chatbots, for generating humanlike text and interactions along with prompt engineering techniques to optimize model responses.
+- **Generative AI (Beginner)**: LLM based chatbots for generating humanlike text and interactions along with prompt engineering techniques to optimize model responses.
 
 #### **Web Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
