@@ -11,19 +11,29 @@ I'm passionate about AI and Machine Learning 🤖 and always look for new ways t
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🛠️ **Core Skills**
-- **Machine Learning**: Knowledge of algorithms and models for data driven predictions and decisions.
-- **Deep Learning**: Proficient in CNN, RNN, LSTM, RCNN, Gan and other advanced neural network architectures.
-- **Natural Language Processing (NLP)**: Understanding of techniques for processing and analyzing text.
-- **Computer Vision (Intermediate)**: Strong knowledge of techniques including object detection, pose detection and image classification.
-- **Generative AI (Beginner)**: LLM based chatbots for generating humanlike text and interactions along with prompt engineering techniques to optimize model responses.
+
+### **Core Skills**
+### **Deep Learning Frameworks**:
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+### **Natural Language Processing (NLP) Frameworks**:
+- ![Hugging Face](https://img.shields.io/badge/Hugging_Face-00B8D9?style=flat&logo=huggingface&logoColor=white)
+- ![spaCy](https://img.shields.io/badge/spaCy-2A6C64?style=flat&logo=spacy&logoColor=white)
+- ![NLTK](https://img.shields.io/badge/NLTK-2A8D2F?style=flat&logo=nltk&logoColor=white)
+
+### **Computer Vision**:
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+- ![MediaPipe](https://img.shields.io/badge/MediaPipe-00BFAE?style=flat&logo=mediapipe&logoColor=white)
+
+
 
 #### **Web Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
